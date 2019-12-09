@@ -1,8 +1,10 @@
 import React from 'react'
-import Link from 'next/link'
 
 import Layout from '../components/Layout'
 import Font from '../font'
+import {
+  Container,
+} from './index.styled'
 
 export default class Index extends React.Component {
   componentDidMount() {
@@ -12,7 +14,9 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        FUck
+        <Container>
+          Fuck
+        </Container>
       </Layout>
     )
   }
