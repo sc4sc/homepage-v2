@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "fontfaceobserver": "^2.1.0",
-    "next": "^9.1.4",
+    "next": "^9.3.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "styled-components": "^4.4.1"
